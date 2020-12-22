@@ -105,8 +105,6 @@ This Project is for making Google_Auth_Client for practicing Auth2.0
 
 
 ## References
-
 * [oauth.com](https://www.oauth.com/)
 * [VELOPERT.LOG](https://velopert.com/2389)
-
 * [OpenID Connect Basic Client Implementer's Guide](https://openid.net/specs/openid-connect-basic-1_0.html)
